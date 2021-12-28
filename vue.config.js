@@ -1,3 +1,4 @@
 module.exports = {
-  lintOnSave: false,
+  publicPath: "/vue-devops/",
+  outputDir: "dist",
 };
